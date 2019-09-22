@@ -1,12 +1,20 @@
-# IoT Fundamentals: Nadaljevalni tečaj analitike podatkov v Python-u (Analitika 2)
+# Nadaljevalni tečaj analitike podatkov v Python-u (Analitika 2)
 
-Repozitoriji za tečaj IoT Fundamentals: Nadaljevalni tečaj analitike podatkov v Python-u (Analtika 2)
+Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analtika 2)
+
+## Datumi izvajanja:
+- Termin 1: Torek, 1.10.2019 ob 16:00
+- Termin 2: Torek, 8.10.2019 ob 16:00
+
+## Ocenjevanje
+- **+ 20%** (dodatne točke) - Domače vaje
+- **100%** Praktičen izpit
 
 ## Vsebina
 
 ### Del 1: Pandas - Time Series
 - The data
-	- Getting the data
+    - Getting the data
 - Time series data structures
 - Creating a time series DataFrame
 - Time-based indexing
@@ -17,6 +25,7 @@ Repozitoriji za tečaj IoT Fundamentals: Nadaljevalni tečaj analitike podatkov 
 - Resampling
 - Rolling windows
 - Trends
+- (DN) 01_Pandas_Time_Series_DN
 
 ### Del 2: Pandas - Categorical Data
 
