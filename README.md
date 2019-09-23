@@ -28,6 +28,16 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - (DN) 01_Pandas_Time_Series_DN
 
 ### Del 2: Pandas - Categorical Data
+- Background and Motivation
+- Categorical Type in pandas
+- Better performance with categoricals
+- Categorical Methods
+- Example: Using The Pandas Category Data Type
+    - Data Preparation
+    - Performance
+    - Watch Outs
+    - General Guidelines
+- (D) Dodatek: Categorical data
 
 ### Del 3: Pandas - Data Cleaning napredno
 
