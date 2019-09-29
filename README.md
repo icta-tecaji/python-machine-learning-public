@@ -42,6 +42,42 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 ### Del 3: Pandas - Data Cleaning napredno
 
 ### Del 4: Delo s podatkovnimi bazami in SQL
+- Introduction to Databases
+- Data
+- SQLite - Commands
+    - Formatting Output
+    - Querying the database schema
+- Introduction to SQL
+    - SELECT
+    - Filtering Rows Using WHERE
+    - Multiple Filter Criteria Using AND
+    - Returning One of Several Conditions With OR
+    - Grouping Operators With Parentheses
+    - Ordering Results Using ORDER BY
+- Work with the SQLite database using Python
+    - Connecting to the Database
+        - Closing the Database Connection
+        - SQLite Python: Creating a New Database
+    - Introduction to Cursor Objects and Running a Query
+        - Shortcut for Running a Query
+        - SQLite Python: Querying Data
+    - Fetching a Specific Number of Results
+- SQLAlchemy
+    - Installation
+    - SQLAlchemy version
+    - Connecting
+        - Database Urls
+    - Execute SQL statements
+- Working with databases and Pandas
+    - Importing data from database
+        - read_sql_table
+        - read_sql_query
+    - Writing a DataFrame to a SQL database
+        - to_sql
+        - SQL data types
+    - Primer: Uvoz podatkov iz CSV dokumenta v SQL bazo
+- Dodatna orodja
+    - ipython-sql
 
 ### Del 5: Procesiranje velikih datasetov v pandas-u
 
@@ -50,3 +86,12 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 ### Del 7: Uvod v strojno učnje
 
 ### Del 8: Spark
+
+
+## Uporabne strani
+- [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+- [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
+- [KDnuggets](https://www.kdnuggets.com/)
+- [DEV](https://dev.to/)
+
+
