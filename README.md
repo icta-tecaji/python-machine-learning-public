@@ -5,6 +5,17 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 ## Datumi izvajanja:
 - Termin 1: Torek, 1.10.2019 ob 16:00
 - Termin 2: Torek, 8.10.2019 ob 16:00
+- Termin 3: torek, 15.10.2019 ob 16:00
+- Termin 4: torek, 22.10.2019 ob 16:00
+- Termin 5: torek, 29.10.2019 ob 16:00
+- Termin 6: torek, 5.11.2019 ob 16:00
+- Termin 7: torek, 12.11.2019 ob 16:00
+- Termin 8: torek, 19.11.2019 ob 16:00
+- Termin 9: torek, 26.11.2019 ob 16:00
+- Termin 10: torek, 3.12.2019 ob 16:00
+- Terin rezerva: torek, 10.12.2019 ob 16:00
+- Izpit: 17.12.2019 (predlog, se dogovorimo)
+
 
 ## Ocenjevanje
 - **+ 20%** (dodatne točke) - Domače vaje
