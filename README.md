@@ -93,6 +93,7 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
         - Impute with Forward-fill & Backfill 
         - Impute with interpolate method
 - (D) Dodatek: Working with missing data
+- (DN) 03_Pandas_Data_Cleaning_napredno
 
 ### Del 4: Delo s podatkovnimi bazami in SQL
 - Introduction to Databases
