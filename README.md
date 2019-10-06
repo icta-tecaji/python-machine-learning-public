@@ -51,6 +51,48 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - (D) Dodatek: Categorical data
 
 ### Del 3: Pandas - Data Cleaning napredno
+- Working With Strings In Pandas
+    - Data
+    - Using Apply to Transform Strings
+    - Vectorized String Methods
+        - Exploring Missing Values with Vectorized String Methods
+- Regular Expressions in Pandas
+    - The Regular Expression Module
+    - Finding Specific Words in Strings
+    - Using Regular Expressions to Select Data
+    - Import new dataset
+    - Quantifiers
+    - Character Classes
+    - Raw strings
+    - Extracting Substrings from a Series with Capture Groups
+    - Using Flags to Modify Regex Patterns
+    - Primer: Create a frequency table of the different capitalizations of SQL
+    - Primer: Versions of Python
+    - Primer: Extracting URL Parts
+        - Using Named Capture Groups
+- Working With Missing Data
+    - Introduction
+        - Why does missing data exist?
+        - Workflow for treating missing values
+    - Data
+    - Detecting & Identifying Missing Data
+        - Replacing hidden missing values
+        - Analyzing missingness percentage
+    - Visualizing Missing Data
+    - Missingness Patterns
+    - Handle Missing Values 
+        - Dropping Rows 
+        - Imputation Techniques
+            - Mean & median imputation
+            - Mode and constant imputation
+            - Visualize imputations
+        - Dropping Columns
+        - Using Data From Additional Sources to Fill in Missing Values
+        - Vaja: Removing all missing values from World Happiness Reports datasets
+    - Missing time-series data
+        - Impute with Forward-fill & Backfill 
+        - Impute with interpolate method
+- (D) Dodatek: Working with missing data
 
 ### Del 4: Delo s podatkovnimi bazami in SQL
 - Introduction to Databases
@@ -104,5 +146,7 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - [DEV](https://dev.to/)
-
+- [DZone](https://dzone.com)
+- [Medium](https://medium.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
 
