@@ -134,6 +134,38 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - ipython-sql
 
 ### Del 5: Procesiranje velikih datasetov v pandas-u
+- Introduction & Data
+- Optimizing Dataframe Memory Footprint
+    - The Internal Representation of a Dataframe
+    - Dataframe Memory Footprint
+        - Float Columns
+        - Object Columns
+        - True Memory Footprint
+    - Optimizing Numeric Columns with Subtypes
+        - Integer Columns
+        - Float Columns
+    - Converting To DateTime
+    - Converting to Categorical
+- Selecting Types While Reading the Data In
+    - Example: MoMA dataset
+- Processing Dataframes in Chunks
+    - Processing Chunks
+    - Counting Across Chunks
+    - Batch Processing
+    - Optimizing Performance
+    - Counting Unique Values
+- Analizing big files with Pandas and SQLite
+    - Computing Primarily in SQL
+    - Computing Primarily in Pandas
+    - Reading in SQL Results Using Chunks
+- Vaja: Primer analize velikega dataseta
+- More file formats
+    - Parquet
+    - Avro
+    - Feather
+    - HDF5
+- Druga zanimiva orodja
+    - Dask
 
 ### Del 6: Optimizacija kode za velike datasete
 
