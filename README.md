@@ -165,9 +165,40 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Feather
     - HDF5
 - Druga zanimiva orodja
-    - Dask
+    - Dask  
 
 ### Del 6: Optimizacija kode za velike datasete
+- CPU Bound Programs
+    - Bounds vs Limitations
+    - Primer optimizacije
+- I/O Bound Programs
+    - Profiling an I/O bound task
+    - I/O Bounds
+    - Blocking Tasks
+    - Parallel Execution
+    - Thread Blocking
+    - Joining Threads
+    - Locking
+    - Thread Safety
+- Optimizing Python Code with pandas
+    - Basic Looping
+    - Select columns and rows efficiently
+    - Uporaba biult-in funkciji       
+    - Joining on indexes is faster than joining on columns
+- PRIMER: Pohitritev pandas kode
+    - Naloga
+    - Priprava podatkov
+    - 1) Simple Looping Over Pandas Data
+    - 2) Looping with .itertuples() and .iterrows()
+    - 3) Pandas’ .apply()
+    - 4) Selecting Data With .isin()
+    - 5) Pandas’ pd.cut() function
+    - 6) Using NumPy
+    - Prevent Reprocessing with HDFStore
+    - Povzetek
+- Drugi nasveti
+    - Numba
+    - pandas.eval() for Efficient Operations
 
 ### Del 7: Uvod v strojno učnje
 
