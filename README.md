@@ -200,7 +200,7 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Numba
     - pandas.eval() for Efficient Operations
 
-### Del 7: Uvod v strojno učnje
+### Del 7: Uvod v strojno učnje - Osnove
 - Uvod v strojno učenje
 - Introduction to K-Nearest Neighbors
     - Problem definition
@@ -241,8 +241,33 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Performing K-Fold Cross Validation Using Scikit-Learn
     - Exploring Different K Values
     - Bias-Variance Tradeoff
+
+### Del 8: Uvod v strojno učnje - Nadaljevanje
+- Instance Based Learning Vs. Model Based Learning
+- Linear Regression
+    - Introduction To The Data
+    - Simple Linear Regression
+    - Using Scikit-Learn To Train And Predict
+    - Multiple Linear Regression
+    - Missing Values
+    - Correlating Feature Columns With Target Column
+    - Correlation Matrix Heatmap
+    - Train And Test Model
+    - Removing Low Variance Features
+    - Final Model
+- Exercise: Predicting House Sale Prices
+    - Introduction
+    - Feature Engineering
+        - Missing Values
+        - Transforming Improper Numerical Features
+    - Feature Selection
+        - Categorical Features
+        - Dummy Coding
+    - Train And Test
+    - Using the model
+        - Testing different thresholds
     
-### Del 8: Spark
+### Del 9: Spark
 
 
 ## Uporabne strani
