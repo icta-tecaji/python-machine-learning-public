@@ -266,8 +266,41 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Train And Test
     - Using the model
         - Testing different thresholds
+
+### Del 9: Procesi v analitiki podatkov
+- Designing Machine Learning Workflows
+    - Feature engineering
+    - Model selection
+    - Grid search CV for model complexity
+    - Categorical encodings
+    - Feature transformations
+    - Bringing it all together
+- Exploring the Bitcoin Cryptocurrency Market
+    - Bitcoin. Cryptocurrencies.
+    - Full dataset, filtering, and reproducibility
+    - Discard the cryptocurrencies without a market capitalization
+    - How big is Bitcoin compared with the rest of the cryptocurrencies?
+    - Making the plot easier to read and more informative
+    - What is going on?! Volatility in cryptocurrencies
+    - Well, we can already see that things are a bit crazy
+    - Ok, those are... interesting. Let's check the weekly Series too.
+    - How small is small?
+    - Most coins are tiny
+- Predicting Credit Card Approvals
+    - Credit card applications
+    - Inspecting the applications
+    - Handling the missing values (part i)
+    - Handling the missing values (part ii)
+    - Handling the missing values (part iii)
+    - Preprocessing the data (part i)
+    - Splitting the dataset into train and test sets
+    - Preprocessing the data (part ii)
+    - Fitting a logistic regression model to the train set
+    - Making predictions and evaluating performance
+    - Grid searching and making the model perform better
+    - Finding the best performing model
     
-### Del 9: Spark
+### Del 10: Spark
 
 
 ## Uporabne strani
