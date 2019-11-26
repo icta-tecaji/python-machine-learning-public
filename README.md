@@ -302,6 +302,8 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     
 ### Del 10: Spark
 
+### Del 11: Primer izpita
+
 
 ## Uporabne strani
 - [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
