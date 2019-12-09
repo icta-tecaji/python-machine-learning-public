@@ -13,8 +13,8 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - Termin 8: torek, 19.11.2019 ob 16:00
 - Termin 9: torek, 26.11.2019 ob 16:00
 - Termin 10: torek, 3.12.2019 ob 16:00
-- Terin rezerva: torek, 10.12.2019 ob 16:00
-- Izpit: 17.12.2019 (predlog, se dogovorimo)
+- Termin 11: torek, 10.12.2019 ob 16:00
+- Izpit: 17.12.2019
 
 
 ## Ocenjevanje
@@ -301,7 +301,66 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Finding the best performing model
     
 ### Del 10: Spark
-
+- Big Data
+    - Whatis Big Data?
+    - The 3 V's of Big Data
+    - Big Data concepts and Terminology
+    - Big Data processing systems
+        - Hadoop/MapReduce:
+        - Apache Spark
+- Why Apache Spark over Hadoop? 
+    - Differences Between Hadoop and Spark
+        - Speed
+        - Easy to Manage
+        - Real-time Analysis
+- Introduction to Apache Spark
+    - What is Spark?
+    - History Of Apache Spark
+    - Apache Spark Components
+        - Spark Core
+        - Spark SQL
+        - Spark Streaming
+        - Spark MLlib
+        - Spark GraphX
+    - Spark modes of deployment
+- Apache Spark Architecture
+- Spark: Python or Scala?
+- Big Data Concepts in Python
+    - Lambda Functions
+    - filter(), map(), and reduce()
+    - Sets
+- PySpark
+    - Spark shell
+        - PySpark shell
+    - Installing PySpark
+        - Priprava okolja
+    - Introduction to PySpark
+        - Connecting to a cluster
+        - Examining The SparkContext
+    - Introduction to PySpark RDD
+        - What is RDD?
+        - Creating RDDs
+        - Basic RDD Transformations and Actions
+        - Example: Counting words in a document            
+    - Abstracting Data with DataFrames
+        - Using DataFrames
+        - Creating a SparkSession
+        - Viewing tables
+        - Run SQL queries on tables
+        - Pandafy a Spark DataFrame
+        - Put pandas DataFrame into a Spark cluster
+        - Import data into Spark
+    - Manipulating data
+        - Creating columns
+        - Filtering Data
+        - Selecting
+        - Selecting II
+        - Aggregating
+        - Example: PySpark DataFrame subsetting and cleaning
+        - Example: Filtering your DataFrame
+    - Data Visualization in PySpark using DataFrames
+        - Using Pandas for plotting DataFrames
+        
 ### Del 11: Primer izpita
 
 
