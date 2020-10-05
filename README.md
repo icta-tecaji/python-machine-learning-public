@@ -45,9 +45,7 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Avro
     - Feather
     - HDF5
-- Druga zanimiva orodja
-    - Dask  
-
+    
 ### Del 3: Optimizacija kode za velike datasete
 - CPU Bound Programs
     - Bounds vs Limitations
