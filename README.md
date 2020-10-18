@@ -78,6 +78,53 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - Drugi nasveti
     - Numba
     - pandas.eval() for Efficient Operations
+    
+### Del 4: Strojno učenje: K-Nearest Neighbors
+- Introduction to K-Nearest Neighbors
+    - Problem definition
+    - Introduction to the data
+    - K-nearest neighbors
+    - Euclidean distance
+    - Calculate distance for all observations 
+    - Randomizing, and sorting
+    - Average price
+    - Function to make predictions
+- Evaluating Model Performance
+    - Testing quality of predictions
+    - Error Metrics
+    - Mean Squared Error
+    - Training another model
+    - Root Mean Squared Error
+    - Comparing MAE and RMSE
+- Multivariate K-Nearest Neighbors
+    - Removing features
+    - Handling missing values
+    - Normalize columns
+    - Euclidean distance for multivariate case
+    - Introduction to scikit-learn
+    - Fitting a model and making predictions
+    - Calculating MSE using Scikit-Learn
+    - Using more features
+    - Using all features
+- Hyperparameter Optimization
+    - Expanding grid search
+    - Visualizing hyperparameter values
+    - Varying features and hyperparameters
+    - Practice the workflow
+- Cross Validation
+    - Holdout Validation
+    - K-Fold Cross Validation
+    - First iteration
+    - Function for training models
+    - Performing K-Fold Cross Validation Using Scikit-Learn
+    - Exploring Different K Values
+    - Bias-Variance Tradeoff 
+- Vaja: Predicting Car Prices
+    - Introduction To The Data Set
+    - Data Cleaning
+    - Univariate Model
+    - Multivariate Model
+    - Hyperparameter Tuning 
 
 
 ## Uporabne strani
