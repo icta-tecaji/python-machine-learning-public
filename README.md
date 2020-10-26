@@ -4,7 +4,10 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 
 ## Datumi izvajanja:
 - Termin 1: Ponedeljek, 5.10.2020 ob 16:15
-
+- Termin 2: Ponedeljek, 12.10.2020 ob 16:15
+- Termin 3: Ponedeljek, 19.10.2020 ob 16:15
+- Termin 4: Ponedeljek, 26.10.2020 ob 16:15
+- Termin 5: Ponedeljek, 2.11.2020 ob 16:15
 
 ## Ocenjevanje
 - **+ 20%** (dodatne točke) - Domače vaje
@@ -125,6 +128,44 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Univariate Model
     - Multivariate Model
     - Hyperparameter Tuning 
+    
+### Del 5: Strojno učenje: Linearna regresija
+- The Linear Regression Model
+    - Instance Based Learning Vs. Model Based Learning
+    - Introduction To The Data
+    - Simple Linear Regression
+    - Least Squares
+    - Using Scikit-Learn To Train And Predict
+    - Making Predictions
+    - Multiple Linear Regression
+- Feature Selection
+    - Missing Values
+    - Correlating Feature Columns With Target Column
+    - Correlation Matrix Heatmap
+    - Train And Test Model
+    - Removing Low Variance Features
+    - Final Model    
+- Overfitting
+    - Introduction
+    - Bias and Variance
+    - Bias-variance tradeoff
+    - Multivariate models
+    - Cross validation
+    - Plotting cross-validation error vs. cross-validation variance
+- Processing And Transforming Features
+    - Introduction
+    - Categorical Features
+    - Dummy Coding
+    - Transforming Improper Numerical Features
+    - Missing Values
+    - Imputing Missing Values
+- Vaja: Predicting House Sale Prices
+    - Introduction
+    - Feature Engineering
+    - Feature Selection
+    - Train And Test
+    - Finding best result
+
 
 
 ## Uporabne strani
