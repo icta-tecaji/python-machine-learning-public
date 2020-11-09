@@ -168,6 +168,84 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Train And Test
     - Finding best result
 
+### Del 06: Strojno učenje: Logistična regresija
+- Logistic regression
+    - Classification
+    - Introduction to the data
+    - Logistic regression
+    - Logistic function
+    - Training a logistic regression model
+    - Plotting probabilities
+    - Predict labels
+- Introduction to evaluating binary classifiers
+    - Introduction to the Data
+    - Accuracy
+    - Binary classification outcomes
+    - Sensitivity
+    - Specificity
+    - Vaja - uporaba vseh značilk
+- Multiclass classification
+    - Introduction to the data
+    - Dummy variables
+    - Multiclass classification
+    - Training a multiclass logistic regression model
+    - Testing the models
+    - Choose the origin
+
+### Del 07: Strojno učenje: Pregled Scikit-Learn metodologij
+- Introducing Scikit-Learn
+    - Data Representation in Scikit-Learn
+        - Data as table
+        - Features matrix
+        - Target array
+    - Scikit-Learn's Estimator API
+- Hyperparameters and Model Validation
+    - Model Validation
+        - Model validation the wrong way
+        - Model validation via Holdout sets
+        - Model validation via cross-validation
+    - Selecting the Best Model
+        - The Bias-variance trade-off
+        - Validation curves in Scikit-Learn
+    - Learning Curves
+        - Learning curves in Scikit-Learn
+    - Validation in Practice: Grid Search
+- Feature Engineering
+    - Categorical Features
+        - Categorical encoding using Label-Encoding and One-Hot-Encoder
+        - Label Encoding in Python
+        - One-Hot Encoding in Python
+    - Derived Features
+    - Imputation of Missing Data
+    - Feature Pipelines
+- Primer: Predicting Credit Card Approvals
+    - Introduction to the Data
+    - Inspecting the applications
+    - Preprocessing the data
+    - Fitting a logistic regression model to the train set
+    - Making predictions and evaluating performance
+    - Grid searching and making the model perform better
+
+### Del 08: Strojno učenje: Klasifikacija    
+- Uvod v klasifikacijo
+    - What Is Classification?
+    - When Do You Need Classification?
+- Naive Bayes Classification
+    - Bayesian Classification
+    - Gaussian Naive Bayes
+    - Multinomial Naive Bayes
+        - Text Features
+        - Example: Classifying Text
+    - When to Use Naive Bayes
+- Support Vector Machines
+    - Motivating Support Vector Machines
+    - Support Vector Machines: Maximizing the Margin
+    - Fitting a support vector machine
+    - Beyond linear boundaries: Kernel SVM
+    - Tuning the SVM: Softening Margins
+    - Example: Face Recognition
+    - Support Vector Machine Summary
+
 
 
 ## Uporabne strani
