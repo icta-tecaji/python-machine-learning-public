@@ -10,6 +10,10 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - Termin 5: Ponedeljek, 2.11.2020 ob 16:15
 - Termin 6: Ponedeljek, 9.11.2020 ob 16:15
 - Termin 7: Ponedeljek, 16.11.2020 ob 16:15
+- Termin 8: Ponedeljek, 23.11.2020 ob 16:15
+- Termin 9: Ponedeljek, 30.11.2020 ob 16:15
+- Termin 10: Ponedeljek, 7.12.2020 ob 16:15
+
 
 ## Ocenjevanje
 - **+ 20%** (dodatne točke) - Domače vaje

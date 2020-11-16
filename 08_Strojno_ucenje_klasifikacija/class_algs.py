@@ -1,5 +1,14 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import numpy
+import pandas as pd
+from sklearn import neighbors
+from matplotlib.colors import ListedColormap, BoundaryNorm
+import matplotlib.pyplot as plt
+import pandas as pd
+from sklearn import datasets, neighbors
+from mlxtend.plotting import plot_decision_regions
+
 
 def plot_classifier(X, y, clf, ax=None, ticks=False, proba=False, lims=None): # assumes classifier "clf" is already fit
     X0, X1 = X[:, 0], X[:, 1]
@@ -141,3 +150,17 @@ y = np.array([ True,  True, False,  True,  True,  True, False, False,  True,
         True,  True,  True,  True,  True, False,  True,  True,  True,
        False, False,  True,  True,  True,  True, False, False, False,
         True,  True,  True, False,  True])
+
+
+def knn_comparison(data, k):
+    x = data[['X','Y']].values
+    y = data['class'].astype(int).values
+    clf = neighbors.KNeighborsClassifier(n_neighbors=k)
+    clf.fit(x, y)
+    # Plotting decision region
+    plot_decision_regions(x, y, clf=clf, legend=2)
+    # Adding axes annotations
+    plt.xlabel('X')
+    plt.ylabel('Y')
+    plt.title('Knn with K='+ str(k))
+    plt.show()
