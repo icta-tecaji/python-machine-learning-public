@@ -249,10 +249,53 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Tuning the SVM: Softening Margins
     - Example: Face Recognition
     - Support Vector Machine Summary
+- KNN Classification
+    - How does the KNN algorithm work?
+    - Eager Vs. Lazy Learners
+    - Curse of Dimensionality
+    - How do you decide the number of neighbors in KNN?
+    - Primer: Iris dataset
+- Primerjava klasifikacijskih modelov
+    - Performance Evaluation Metrics
+    - Exploratory Data Analysis
+    - Data Cleaning
+    - Data Balancing
+    - Models Building and Performance Evaluation
 
+### Del 09: Strojno učenje: Decision Trees and Random Forests
+- Introduction to Decision Trees
+    - Overview of the Data Set
+    - Converting Categorical Variables
+    - Splitting Data
+    - Overview of Data Set Entropy
+    - Information Gain
+    - Finding the Best Split
+- Prikaz delovanja: Decision Trees
+- Applying Decision Trees
+    - Using Decision Trees With scikit-learn
+    - Evaluating Error With AUC
+    - Decision Tree Overfitting
+    - Combat overfitting: Restrict the depth of the tree
+        - The Bias-Variance Tradeoff
+    - Analyzing decision trees
+    - Feature importance in trees
+    - Knowing When to Use Decision Trees
+    - Prikaz delovanja: Decision trees and over-fitting
+- Introduction to Random Forests
+    - Combining Model Predictions With Ensembles
+    - Introducing Variation With Bagging
+    - Selecting Random Features
+    - Prikaz delovanja: Random Forests
+    - Using RandomForestClassifier
+    - Tweaking Parameters to Increase Accuracy
+    - Summary of Random Forests
+- Example: Random Forest for Classifying Digits
+- Gradient boosted regression trees (gradient boosting machines)
+    - Strengths, weaknesses, and parameters
 
 
 ## Uporabne strani
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
 - [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 - [KDnuggets](https://www.kdnuggets.com/)
