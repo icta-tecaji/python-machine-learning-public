@@ -329,6 +329,32 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Evaluating clustering with ground truth
     - Evaluating clustering without ground truth
 
+### Del 11: Strojno učenje: Evalvacija in izboljšanje modela
+- Cross-Validation
+    - Cross-Validation in scikit-learn
+    - Benefits of Cross-Validation
+    - Stratified k-Fold Cross-Validation
+    - More control over cross-validation
+    - Leave-one-out cross-validation
+    - Shuffle-split cross-validation
+    - Cross-validation with groups
+- Grid Search
+    - Simple Grid Search
+    - The Danger of Overfitting the Parameters and the Validation Set
+    - Grid Search with Cross-Validation
+        - Analyzing the result of cross-validation
+        - Search over spaces that are not grids
+    - Parallelizing cross-validation and grid search
+- Evaluation Metrics and Scoring
+    - Metrics for Binary Classification
+        - Kinds of errors
+        - Imbalanced datasets
+        - Confusion matrices
+        - Relation to accuracy
+        - Precision, recall, and f-score.
+    - Metrics for Multiclass Classification
+    - Regression Metrics
+
 
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
