@@ -293,6 +293,42 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - Gradient boosted regression trees (gradient boosting machines)
     - Strengths, weaknesses, and parameters
 
+### Del 10: Strojno učenje: Nenadzorovano učenje
+- Types of Unsupervised Learning
+- Challenges in Unsupervised Learning
+- Preprocessing and Scaling
+    - Different Kinds of Preprocessing
+    - Applying Data Transformations
+    - Scaling Training and Test Data the Same Way
+    - The Effect of Preprocessing on Supervised Learning
+- Dimensionality Reduction, Feature Extraction, and Manifold Learning
+    - Principal Component Analysis (PCA)
+        - Applying PCA to the cancer dataset for visualization
+    - Non-Negative Matrix Factorization (NMF)
+        - Applying NMF to synthetic data
+    - Manifold Learning with t-SNE
+- Clustering
+    - What Is Clustering?
+    - Overview of Clustering Techniques
+    - Partitional Clustering
+    - Hierarchical Clustering
+    - Density-Based Clustering
+- k-Means Clustering
+    - Understanding the K-Means Algorithm
+    - Applying k-means with scikit-learn
+    - Failure cases of k-means
+    - Primer: Enostaven Cluster
+    - Choosing the Appropriate Number of Clusters
+    - Primer: K-Means Clustering Pipeline in Python
+        - Building a K-Means Clustering Pipeline
+        - Tuning a K-Means Clustering Pipeline
+- Agglomerative Clustering        
+    - Hierarchical clustering and dendrograms
+- DBSCAN
+- Comparing and Evaluating Clustering Algorithms
+    - Evaluating clustering with ground truth
+    - Evaluating clustering without ground truth
+
 
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
