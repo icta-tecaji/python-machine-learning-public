@@ -370,6 +370,22 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
 - Primer 1: Titanic
     - Creating Data Transformer Pipeline
 
+### Del 13: MongoDB
+- SQL vs NoSQL
+- MongoDB
+- Install MongoDB
+- Install the Python Driver
+- PyMongo
+    - Establishing a Connection
+    - Creating and Accessing a Database
+    - Check if Database Exists
+    - Collections and Documents
+    - Inserting Documents
+    - Generating sample data code
+    - MongoDB Find
+    - Delete Documents
+    - Drop Collection
+- Vaja: Uvoz JSON datoteke v MongoDB
 
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
