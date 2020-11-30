@@ -355,6 +355,21 @@ Repozitoriji za tečaj: Nadaljevalni tečaj analitike podatkov v Python-u (Analt
     - Metrics for Multiclass Classification
     - Regression Metrics
 
+### Del 12: Pipelines in procesi
+- Algorithm Chains and Pipelines
+    - Parameter Selection with Preprocessing
+    - Building Pipelines
+    - Using Pipelines in Grid Searches
+    - The General Pipeline Interface
+    - Convenient Pipeline Creation with make_pipeline
+    - Accessing Step Attributes
+    - Accessing Attributes in a Pipeline inside GridSearchCV
+    - Grid-Searching Preprocessing Steps and Model Parameters
+    - Grid-Searching Which Model To Use
+- Choosing the right estimator
+- Primer 1: Titanic
+    - Creating Data Transformer Pipeline
+
 
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
