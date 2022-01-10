@@ -1,0 +1,10 @@
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ipywidgets
+widgetsnbextension
+graphviz
+imageio
