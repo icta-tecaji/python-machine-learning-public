@@ -1,5 +1,6 @@
 # Del 1: Uvod v strojno učenje
 
+## Vsebina
 - Why Machine Learning?
 - Problems Machine Learning Can Solve
 - scikit-learn
