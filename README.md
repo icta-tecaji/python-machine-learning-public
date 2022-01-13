@@ -1,5 +1,19 @@
 # Analitika 2: Strojno učenje v Python-u
 
+## Termini
+- 13.1.2021
+- 20.1.2021
+- 27.1.2021
+- 3.2.2021
+- 10.2.2021
+- 17.2.2021
+- 24.2.2021
+- 3.3.2021
+- 10.3.2021
+- 17.3.2021
+- Izpit 
+
+
 ## Zagon 
 ### Linux (Ubuntu 20)
 - Po potrebi namestimo git in Python:
