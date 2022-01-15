@@ -78,7 +78,7 @@
 - **Support vector machines:** Powerful for medium-sized datasets of features with similar meaning. Require scaling of data, sensitive to parameters.
 
 ![alt text](https://scikit-learn.org/stable/_static/ml_map.png)
-Vir: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.htmlm
+Vir: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 
 ## Priporočila
