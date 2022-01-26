@@ -71,7 +71,10 @@
 - Kernelized Support Vector Machines
 - Uncertainty Estimates from Classifiers
 
-
+### Del 3: Nenadzorovano učenje
+- Uvod v nenadzorovano učenje
+- Preprocessing and Scaling
+- Clustering
 
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning

@@ -8,3 +8,4 @@ ipywidgets
 widgetsnbextension
 graphviz
 imageio
+kneed
