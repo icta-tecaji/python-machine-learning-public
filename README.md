@@ -76,6 +76,14 @@
 - Preprocessing and Scaling
 - Clustering
 
+### Del 4: Prilagoditev značilk
+- Categorical Variables
+- Binning, Discretization, Linear Models, and Trees
+- Interactions and Polynomials
+- Univariate Nonlinear Transformations
+- Automatic Feature Selection
+- Utilizing Expert Knowledge
+
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
 - [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
