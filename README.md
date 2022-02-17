@@ -84,6 +84,11 @@
 - Automatic Feature Selection
 - Utilizing Expert Knowledge
 
+### Del 5: Overdnotenje in optimizacija modelov
+- Cross-Validation
+- Grid Search
+- Evaluation Metrics and Scoring
+
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
 - [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
