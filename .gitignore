@@ -1,3 +1,10 @@
+creditcard.csv
+aclImdb/
+news-data.csv
+complaints.csv
+complaints_10_percent.csv
+Consumer_Complaints.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
