@@ -9,3 +9,6 @@ widgetsnbextension
 graphviz
 imageio
 kneed
+spacy
+nltk
+gensim
