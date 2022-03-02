@@ -12,3 +12,6 @@ kneed
 spacy
 nltk
 gensim
+scikit-image
+flask
+gunicorn
