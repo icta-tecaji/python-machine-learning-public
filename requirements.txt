@@ -15,3 +15,5 @@ gensim
 scikit-image
 flask
 gunicorn
+tensorflow
+transformers
