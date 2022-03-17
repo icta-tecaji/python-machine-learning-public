@@ -89,6 +89,35 @@
 - Grid Search
 - Evaluation Metrics and Scoring
 
+### Del 6: Pipelines in scikit-learn 
+- Parameter Selection with Preprocessing
+- Building Pipelines
+- Using Pipelines in Grid Searches
+- The General Pipeline Interface
+- Grid-Searching Preprocessing Steps and Model Parameters
+- Grid-Searching Which Model To Use
+
+### Del 7: Strojno učenje nad tekstovnimi podatki
+- Working with Text Data
+- Example: News data
+- Example: Customer complaints
+- Example: Email spam detector
+
+### Del 8: Praktični primeri iz strojnega učenja
+- End-to-End Machine Learning Project
+
+### Del 9: Nevronske mreže
+- Kaj so nevronske mreže
+- Realni primer - uporaba Keras in Tensorflow knjižnjic
+
+### Del 10: Pregled strojnega ucenja
+- Approaching a Machine Learning Problem
+- From Prototype to Production
+- Testing Production Systems
+- ML landscape
+- Where to Go from Here
+- Tools
+
 ## Uporabne strani
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
 - [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
