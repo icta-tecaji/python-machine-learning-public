@@ -1,129 +1,18 @@
 # Analitika 2: Strojno učenje v Python-u
 
-## Termini
-- 13.1.2021
-- 20.1.2021
-- 27.1.2021
-- 3.2.2021
-- 17.2.2021
-- 24.2.2021
-- 3.3.2021
-- 10.3.2021
-- 17.3.2021
-- 31.3.2021
-- Izpit 
-
-
-## Zagon 
-### Linux (Ubuntu 20)
-- Po potrebi namestimo git in Python:
-    - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-2-public.git`
-- Namestimo Python venv: `apt install python3.8-venv`
-- Ustvarimo virtualno okolje: `python3 -m venv .venv`
-- Aktiviramo virtualno okolje: `source .venv/bin/activate`
-- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
-- Zagon Jupyter Notebooks: `jupyter notebook`
-- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
-- Remote access (before running the notebook):
-    - Generate the config file: `jupyter notebook --generate-config`
-    - Add the following lines to the conifg:
-        - `c.NotebookApp.allow_origin = '*'`
-        - `c.NotebookApp.ip = '0.0.0.0'`
-
-### Windows 10
-- Po potrebi namestimo git in Python:
-    - https://git-scm.com/download/win
-    - https://www.python.org/downloads/windows/
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-2-public.git`
-- Ustvarimo virtualno okolje: `python -m venv .venv`
-- Aktiviramo virtualno okolje: `.venv\Scripts\activate`
-- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
-- Zagon Jupyter Notebooks: `jupyter notebook`
-- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
-
-### Mac OS
-- Po potrebi namestimo git in Python:
-    - https://git-scm.com/download/mac
-    - https://www.python.org/downloads/macos/
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-2-public.git`
-- Ustvarimo virtualno okolje: `python3 -m venv .venv`
-- Aktiviramo virtualno okolje: `source .venv/bin/activate`
-- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
-- Zagon Jupyter Notebooks: `jupyter notebook`
-- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
-
 ## Vsebina
-### Del 1: Uvod v strojno učenje
-- Why Machine Learning? 
-- Problems Machine Learning Can Solve
-- scikit-learn
-- Essential Libraries and Tools
-- A First Application: Classifying Iris Species
 
-### Del 2: Nadzorovano učenje
-- Uvod v nadzorovano učenje
-- k-Nearest Neighbors
-- Linear Models
-- Naive Bayes Classifiers
-- Decision Trees
-- Ensembles of Decision Trees
-- Kernelized Support Vector Machines
-- Uncertainty Estimates from Classifiers
+### [Del 1: Uvod v strojno učenje](./01_Uvod_v_strojno_ucenje/README.md)
+- Teoretičen uvod v strojno učenje ✅
+- Workflow of a machine learning project ✅
+- What is machine learning? ✅
+- What are machine learning models? ✅
+- Why Machine Learning? ✅
+- Problems Machine Learning Can Solve ✅
+- scikit-learn ✅
+- A First Application: Classifying Iris Species ✅
 
-### Del 3: Nenadzorovano učenje
-- Uvod v nenadzorovano učenje
-- Preprocessing and Scaling
-- Clustering
+### [Del 2: Nadzorovano učenje](./02_Nadzorovano_ucenje/README.md)
+- Uvod v nadzorovano učenje ✅
+- Linear models for regression ✅
 
-### Del 4: Prilagoditev značilk
-- Categorical Variables
-- Binning, Discretization, Linear Models, and Trees
-- Interactions and Polynomials
-- Univariate Nonlinear Transformations
-- Automatic Feature Selection
-- Utilizing Expert Knowledge
-
-### Del 5: Overdnotenje in optimizacija modelov
-- Cross-Validation
-- Grid Search
-- Evaluation Metrics and Scoring
-
-### Del 6: Pipelines in scikit-learn 
-- Parameter Selection with Preprocessing
-- Building Pipelines
-- Using Pipelines in Grid Searches
-- The General Pipeline Interface
-- Grid-Searching Preprocessing Steps and Model Parameters
-- Grid-Searching Which Model To Use
-
-### Del 7: Strojno učenje nad tekstovnimi podatki
-- Working with Text Data
-- Example: News data
-- Example: Customer complaints
-- Example: Email spam detector
-
-### Del 8: Praktični primeri iz strojnega učenja
-- End-to-End Machine Learning Project
-
-### Del 9: Nevronske mreže
-- Kaj so nevronske mreže
-- Realni primer - uporaba Keras in Tensorflow knjižnjic
-
-### Del 10: Pregled strojnega ucenja
-- Approaching a Machine Learning Problem
-- From Prototype to Production
-- Testing Production Systems
-- ML landscape
-- Where to Go from Here
-- Tools
-
-## Uporabne strani
-- [Machine Learning Crash Course](https://developers.google.com/machine-learning): Google's fast-paced, practical introduction to machine learning
-- [pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
-- [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
-- [KDnuggets](https://www.kdnuggets.com/)
-- [DEV](https://dev.to/)
-- [DZone](https://dzone.com)
-- [Medium](https://medium.com/)
-- [Towards Data Science](https://towardsdatascience.com/)

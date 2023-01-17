@@ -6,14 +6,3 @@ seaborn
 scikit-learn
 ipywidgets
 widgetsnbextension
-graphviz
-imageio
-kneed
-spacy
-nltk
-gensim
-scikit-image
-flask
-gunicorn
-tensorflow
-transformers
