@@ -15,4 +15,7 @@
 ### [Del 2: Nadzorovano učenje](./02_Nadzorovano_ucenje/README.md)
 - Uvod v nadzorovano učenje ✅
 - Linear models for regression ✅
+- Feature scaling ✅
+- Regularization ✅
+
 
