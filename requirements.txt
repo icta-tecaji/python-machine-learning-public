@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn<1.2.0
 ipywidgets
 widgetsnbextension
+ipympl
