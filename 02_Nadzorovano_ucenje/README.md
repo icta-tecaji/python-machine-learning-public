@@ -44,3 +44,37 @@
     - Lasso Regression ✅
     - Elastic Net Regression ✅
 - Strengths, weaknesses, and parameters ✅
+
+### Polynomial regression
+- Why Polynomial Regression? ✅
+- What is Polynomial Regression? ✅
+- Polynomial Regression with sklearn ✅
+- Disadvantages of polynomial regression ✅
+
+### Linear models for classification
+- Intro to classification ✅
+- Logistic Regression ✅
+- Regularization for Logistic Regression ✅
+- Uncertainty Estimates from Classifiers ✅
+    - The Decision Function ✅
+    - Predicting Probabilities ✅
+- Binary Logistic Regression in Scikit-learn ✅
+- Linear models for multiclass classification ✅
+- Uncertainty in Multiclass Classification ✅
+- Multinomial Logistic Regression in Scikit-learn ✅
+
+### Example: North American pumpkin prices
+- Visualize and clean data in preparation for ML ✅
+- Build a regression model using Scikit-learn ✅
+- Logistic regression to predict categories ✅
+
+### k-Nearest Neighbors
+- k-Neighbors classification ✅
+    - Analyzing KNeighborsClassifier ✅
+- k-neighbors regression ✅
+    - Analyzing KNeighborsRegressor ✅
+    - Primer: AirBnB dataset ✅
+- Parameters ✅
+- Strengths ✅
+- Weaknesses ✅
+- Conclusion ✅

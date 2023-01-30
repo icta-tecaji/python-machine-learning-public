@@ -17,5 +17,8 @@
 - Linear models for regression ✅
 - Feature scaling ✅
 - Regularization ✅
-
+- Polynomial regression ✅
+- Linear models for classification ✅
+- Example: North American pumpkin prices ✅
+- k-Nearest Neighbors ✅
 
