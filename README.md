@@ -1,5 +1,18 @@
 # Analitika 2: Strojno učenje v Python-u
 
+## Termini
+- 23.1.2023
+- 30.1.2023
+- 6.2.2023
+- 13.2.2023
+- 20.2.2023
+- 6.3.2023
+- 13.3.2023
+- 20.3.2023
+- 27.3.2023
+- 3.4.2023
+- 11.4.2023 (izpit)
+
 ## Vsebina
 
 ### [Del 1: Uvod v strojno učenje](./01_Uvod_v_strojno_ucenje/README.md)
