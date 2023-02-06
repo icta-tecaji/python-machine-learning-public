@@ -78,3 +78,49 @@
 - Strengths ✅
 - Weaknesses ✅
 - Conclusion ✅
+
+### Naive Bayes Classifiers
+- Gaussian Naive Bayes ✅
+- Example: Multinomial Naive Bayes - Classifying Text ✅
+- Parameters ✅
+- Strengths ✅
+- Weaknesses ✅
+- Usage ✅
+
+### Kernelized Support Vector Machines
+- Linear models and nonlinear features ✅
+- The kernel trick ✅
+- Understanding SVMs ✅
+- Tuning SVM parameters ✅
+- Preprocessing data for SVMs ✅
+- Strengths, weaknesses, and parameters ✅
+
+### Decision Trees
+- Building decision trees ✅
+- Measuring purity ✅
+- Build a decision tree model using Scikit-learn ✅
+- Controlling complexity of decision trees ✅
+- Analyzing decision trees ✅
+- Feature importance in trees ✅
+- Using one-hot encoding of categorical features ✅
+- Continuous valued features ✅
+- Example: Heart dataset ✅
+- Decision trees for regression ✅
+- Strengths, weaknesses, and parameters ✅
+
+### Vaja: Phone prices
+
+## Pregled modelov
+- **Nearest neighbors:** For small datasets, good as a baseline, easy to explain.
+- **Linear models:** Go-to as a first algorithm to try, good for very large datasets, good for very highdimensional data.
+- **Naive Bayes:** Only for classification. Even faster than linear models, good for very large datasets and high-dimensional data. Often less accurate than linear models.
+- **Decision trees:** Very fast, don’t need scaling of the data, can be visualized and easily explained.
+- **Gradient boosted decision trees:** Often slightly more accurate than random forests. Slower to train but faster to predict than random forests, and smaller in memory. Need more parameter tuning than random forests.
+- **Support vector machines:** Powerful for medium-sized datasets of features with similar meaning. Require scaling of data, sensitive to parameters.
+
+![alt text](https://scikit-learn.org/stable/_static/ml_map.png)
+Vir: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+
+## Priporočila
+- Pri delu z novimi podatki je priporočeno začeti z enostavnim modelom (npr. linearni modeli, naive Bayes, nearest neighbors classifier) ter pridobiti rezultate. Šele po boljšem razumevanju podatkov, se odločimo za gradnjo kompleksnješih modelov (npr, random forests, gradient boosted decision trees, SVMs).

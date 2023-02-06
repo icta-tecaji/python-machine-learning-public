@@ -34,4 +34,8 @@
 - Linear models for classification ✅
 - Example: North American pumpkin prices ✅
 - k-Nearest Neighbors ✅
+- Naive Bayes Classifiers ✅
+- Kernelized Support Vector Machines ✅
+- Decision Trees ✅
+- Vaja: Phone prices ✅
 
