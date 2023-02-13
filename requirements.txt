@@ -9,3 +9,6 @@ ipywidgets
 widgetsnbextension
 ipympl
 graphviz
+datasist
+feature-engine
+category_encoders

@@ -39,3 +39,9 @@
 - Decision Trees ✅
 - Vaja: Phone prices ✅
 
+### [Del 3: Feature Engineering](./03_Feature_Engineering/README.md)
+- Intro to Feature Engineering ✅
+- Foreseeing Variable Problems When Building ML Models ✅
+- Missing data imputation ✅
+- Encoding Categorical Variables ✅
+- Transforming Numerical Variables ✅
