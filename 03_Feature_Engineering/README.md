@@ -54,3 +54,30 @@
 - Using power transformations on numerical variables ✅
 - Using square and cube root to transform variables ✅
 - Example: Customer churn dataset ✅
+
+### Variable Discretization
+- Dividing the variable into intervals of equal width ✅
+- Sorting the variable values in intervals of equal frequency ✅
+- Performing discretization followed by categorical encoding ✅
+- Allocating the variable values in arbitrary intervals ✅
+- Using decision trees for discretization ✅
+- Example: Wave regression dataset ✅
+
+### Handling outliers
+- Trimming outliers from the dataset ✅
+- Performing winsorization ✅
+- Capping the variable at arbitrary maximum and minimum values ✅
+
+### Creating features from date and time
+- Extracting date and time parts from a datetime variable ✅
+- Deriving representations of the year and month ✅
+- Creating representations of day and week ✅
+- Extracting time parts from a time variable ✅
+- Capturing the elapsed time between datetime variables ✅
+- Working with time in different time zones ✅
+
+### Working with latitudes and longitudes
+- Manhattan distance ✅
+- Haversine distance ✅
+- Bearing ✅
+- Example: Bike Sharing Demand dataset ✅

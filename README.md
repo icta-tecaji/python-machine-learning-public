@@ -45,3 +45,8 @@
 - Missing data imputation ✅
 - Encoding Categorical Variables ✅
 - Transforming Numerical Variables ✅
+- Variable Discretization ✅
+- Handling outliers ✅
+- Creating features from date and time ✅
+- Working with latitudes and longitudes ✅
+
