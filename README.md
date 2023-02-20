@@ -50,3 +50,6 @@
 - Creating features from date and time ✅
 - Working with latitudes and longitudes ✅
 
+### [Del 4: Overdnotenje in optimizacija modelov](./04_Overdnotenje_in_optimizacija_modelov/README.md)
+- Cross-Validation ✅
+- Grid Search ✅
