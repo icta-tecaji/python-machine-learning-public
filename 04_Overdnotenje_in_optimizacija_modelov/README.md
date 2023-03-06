@@ -1,4 +1,4 @@
-# Del 5: Overdnotenje in optimizacija modelov
+# Del 4: Overdnotenje in optimizacija modelov
 
 ## Vsebina
 
@@ -22,3 +22,32 @@
     - Nested cross-validation ✅
     - Parallelizing cross-validation and grid search ✅
 
+### Hyperparameter Optimization
+- Parameter vs. Hyperparameter ✅
+- About hyperparameter tuning ✅
+- Hyperparameter tuning methods ✅
+- Tips for hyperparameter search ✅
+- Hyperopt ✅
+- Optuna ✅
+
+### Evaluation Metrics and Scoring
+- Machine learning application goals ✅
+- Metrics for Binary Classification ✅
+    - Kinds of errors ✅
+    - Imbalanced datasets ✅
+    - Confusion matrices ✅
+    - Taking uncertainty into account ✅
+    - Precision-recall curves ✅
+    - Receiver operating characteristics (ROC) and AUC ✅
+- Metrics for Multiclass Classification ✅
+- Regression Metrics ✅
+- Validation curve ✅
+- Learning curve ✅
+- Metrics and scoring in sklearn ✅
+- Example: Classification Metrics ✅
+- Using Evaluation Metrics in Model Selection ✅
+
+### Automatic Feature Selection
+- Univariate Statistics ✅
+- Model-Based Feature Selection ✅
+- Iterative Feature Selection ✅

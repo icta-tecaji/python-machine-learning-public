@@ -4,11 +4,15 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn<1.2.0
+scikit-learn==1.2.1
 ipywidgets
 widgetsnbextension
+nltk
 ipympl
 graphviz
 datasist
 feature-engine
 category_encoders
+hyperopt
+optuna
+plotly

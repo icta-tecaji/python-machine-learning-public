@@ -53,3 +53,10 @@
 ### [Del 4: Overdnotenje in optimizacija modelov](./04_Overdnotenje_in_optimizacija_modelov/README.md)
 - Cross-Validation ✅
 - Grid Search ✅
+- Hyperparameter Optimization ✅
+- Evaluation Metrics and Scoring ✅
+- Automatic Feature Selection ✅
+
+### [Del 5: Pipelines in scikit-learn](./05_Pipelines_in_scikit-learn/README.md) 
+- Intro To Pipelines ✅
+- Example: Pipelines usage ✅
