@@ -16,3 +16,5 @@ category_encoders
 hyperopt
 optuna
 plotly
+imageio
+xgboost

@@ -60,3 +60,8 @@
 ### [Del 5: Pipelines in scikit-learn](./05_Pipelines_in_scikit-learn/README.md) 
 - Intro To Pipelines ✅
 - Example: Pipelines usage ✅
+
+### [Del 6: Ensemble Learning](./06_Ensemble_Learning/README.md)
+- Introduction to Ensemble Learning ✅
+- Ensembles of Decision Trees ✅
+- XGBoost ✅
