@@ -65,3 +65,11 @@
 - Introduction to Ensemble Learning ✅
 - Ensembles of Decision Trees ✅
 - XGBoost ✅
+
+### [Del 7: Recommender systems](./07_Recommender_systems/README.md)
+- Recommender systems ✅
+- Recommender systems Exercise ✅
+
+### [Del 8: Nenadzorovano učenje](./08_Nenadzorovano_ucenje/README.md)
+- Uvod v nenadzorovano učenje ✅
+- Clustering ✅
