@@ -73,3 +73,8 @@
 ### [Del 8: Nenadzorovano učenje](./08_Nenadzorovano_ucenje/README.md)
 - Uvod v nenadzorovano učenje ✅
 - Clustering ✅
+- Dimension Reduction ✅
+
+### [Del 9: Time Series Forecasting](./09_Time_Series_Forecasting/README.md)
+- Intro to Time Series Forecasting ✅
+- Understanding time series forecasting ✅
