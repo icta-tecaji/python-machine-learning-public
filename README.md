@@ -78,3 +78,4 @@
 ### [Del 9: Time Series Forecasting](./09_Time_Series_Forecasting/README.md)
 - Intro to Time Series Forecasting ✅
 - Understanding time series forecasting ✅
+- Modeling a moving average process ✅

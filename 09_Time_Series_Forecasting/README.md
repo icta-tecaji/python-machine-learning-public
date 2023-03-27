@@ -3,7 +3,10 @@
 ## Vsebina
 
 ### Intro to Time series forecasting
-
+- Some definitions ✅
+- Time Seriesdata characteristics to consider ✅
+- Models ✅
+- Python Packages for Time Series Forecasting ✅
 
 ### Understanding time series forecasting
 - Introducing time series ✅
@@ -26,20 +29,9 @@
     - Forecasting the next timestep ✅
 - Forecast the daily closing price of GOOGL ✅
 
-### Forecasting with statistical models
-- knjiga + ostalo
-
-
-- Large-scale forecasting with deep learning
-    - samo uvod da razložimo da je to opcija
-
-### Example: Electrical usage
-- Getting started with power usage data ✅
-- Time series forecasting with ARIMA ✅
-    - Create training and testing datasets ✅
-    - Prepare the data for training ✅
-    - Implement ARIMA 
-
-- Time Series Forecasting with Support Vector Regressor
+### Modeling a moving average process
+- Defining a moving average process ✅
+- Forecasting a moving average process ✅
+- Summary ✅
 
 
