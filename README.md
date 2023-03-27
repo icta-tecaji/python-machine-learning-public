@@ -79,3 +79,4 @@
 - Intro to Time Series Forecasting ✅
 - Understanding time series forecasting ✅
 - Modeling a moving average process ✅
+- Modeling an autoregressive process ✅ 
