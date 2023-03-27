@@ -34,4 +34,11 @@
 - Forecasting a moving average process ✅
 - Summary ✅
 
+### Modeling an autoregressive process
+- Predicting the average weekly foot traffic in a retail store ✅
+- Defining the autoregressive process ✅
+- The partial autocorrelation function (PACF) ✅
+- Forecasting an autoregressive process ✅
+- Summary ✅
+
 
