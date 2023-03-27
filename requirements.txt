@@ -21,3 +21,5 @@ xgboost
 nltk
 scipy
 kneed
+statsmodels
+
