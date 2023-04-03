@@ -59,4 +59,17 @@
 - Forecasting a non-stationary times series ✅
 - Summary ✅
 
+### Accounting for seasonality
+- Examining the SARIMA(p,d,q)(P,D,Q)m model ✅
+- Identifying seasonal patterns in a time series ✅
+- Forecasting the number of monthly air passengers ✅
+    - Forecasting with an ARIMA(p,d,q) model ✅
+    - Forecasting with a SARIMA(p,d,q)(P,D,Q)m model ✅
 
+### Adding external variables to models
+- Examining the SARIMAX model ✅
+- Forecasting the real GDP using the SARIMAX model ✅
+    - Exploring the exogenous variables of the US macroeconomics dataset ✅
+    - Caveat for using SARIMAX ✅
+    - Forecasting ✅
+- Summary ✅

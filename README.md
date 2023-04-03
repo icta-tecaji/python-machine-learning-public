@@ -82,3 +82,5 @@
 - Modeling an autoregressive process ✅ 
 - Modeling complex time series ✅
 - Forecasting non-stationary time series ✅
+- Accounting for seasonality ✅
+- Adding external variables to models ✅
