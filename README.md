@@ -80,3 +80,5 @@
 - Understanding time series forecasting ✅
 - Modeling a moving average process ✅
 - Modeling an autoregressive process ✅ 
+- Modeling complex time series ✅
+- Forecasting non-stationary time series ✅

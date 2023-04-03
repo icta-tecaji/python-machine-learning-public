@@ -41,4 +41,22 @@
 - Forecasting an autoregressive process ✅
 - Summary ✅
 
+### Modeling complex time series
+- Forecasting bandwidth usage for data centers ✅
+- Examining the autoregressive moving average process ✅
+- Identifying a stationary ARMA process ✅
+- Devising a general modeling procedure ✅
+- Understanding the Akaike information criterion (AIC) ✅
+- Understanding residual analysis ✅
+- Performing residual analysis ✅
+- Applying the general modeling procedure ✅
+- Forecasting bandwidth usage ✅
+- Summary ✅
+
+### Forecasting non-stationary time series
+- Defining the autoregressive integrated moving average model ✅
+- Modifying the general modeling procedure to account for non-stationary series ✅
+- Forecasting a non-stationary times series ✅
+- Summary ✅
+
 
