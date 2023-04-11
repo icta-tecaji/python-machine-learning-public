@@ -1,12 +1,19 @@
-from pydantic import BaseModel, conlist
-from typing import List, Any
 from fastapi import FastAPI
 from joblib import load
+from pydantic import BaseModel, conlist
+from typing import List, Any
 
+app = FastAPI(title="Iris ML API", description="API for iris dataset ml model", version="1.0")
 model = None
 
-class Iris(BaseModel):
-    data: List[conlist(float, min_items=4, max_items=4)]
+@app.on_event('startup')
+async def load_model():
+    global model
+    model = load('data/iris_dt_v1.joblib')
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
 
 class IrisPredictionResponse(BaseModel):
     prediction: List[int]
@@ -14,12 +21,8 @@ class IrisPredictionResponse(BaseModel):
     log_probability: List[Any]
 
 
-app = FastAPI(title="Iris ML API", description="API for iris dataset ml model", version="1.0")
-
-@app.on_event('startup')
-async def load_model():
-    global model
-    model = load('data/iris_dt_v1.joblib')
+class Iris(BaseModel):
+    data: List[conlist(float, min_items=4, max_items=4)]
 
 @app.post('/iris/predict',
         tags=["Predictions"],
@@ -33,3 +36,6 @@ async def get_prediction(iris: Iris):
     return {"prediction": prediction,
             "probability": probability,
             "log_probability": log_probability}
+
+
+
