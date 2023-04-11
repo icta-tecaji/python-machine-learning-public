@@ -84,3 +84,7 @@
 - Forecasting non-stationary time series ✅
 - Accounting for seasonality ✅
 - Adding external variables to models ✅
+
+### [Del 10: Real-world applications for ML](./10_Real-world_applications_for_ML/README.md)
+- End-to-End Machine Learning Project
+- Overview of Machine Learning

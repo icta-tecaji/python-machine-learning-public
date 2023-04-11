@@ -22,4 +22,6 @@ nltk
 scipy
 kneed
 statsmodels
+fastapi
+uvicorn[standard]
 
