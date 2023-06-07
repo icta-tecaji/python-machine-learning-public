@@ -1,4 +1,4 @@
-# Analitika 2: Strojno učenje v Python-u
+# Strojno učenje v Python-u
 
 ## Termini
 - 23.1.2023
