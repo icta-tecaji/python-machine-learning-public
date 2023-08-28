@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import os
 from scipy import signal
-from sklearn.datasets import load_boston
 from sklearn.preprocessing import MinMaxScaler, PolynomialFeatures
 from sklearn.datasets import make_blobs
 
@@ -36,6 +35,14 @@ def load_extended_boston():
     X = MinMaxScaler().fit_transform(X)
     X = PolynomialFeatures(degree=2, include_bias=False).fit_transform(X)
     return X, y
+
+
+def load_boston():
+    data_url = "http://lib.stat.cmu.edu/datasets/boston"
+    raw_df = pd.read_csv(data_url, sep="\s+", skiprows=22, header=None)
+    data = np.hstack([raw_df.values[::2, :], raw_df.values[1::2, :2]])
+    target = raw_df.values[1::2, 2]
+    return data, target
 
 
 def load_citibike():
