@@ -20,8 +20,8 @@
 ### Linux (Ubuntu 20)
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-2-public.git`
-- Ustvarimo virtualno okolje: `python3 -m venv .venv`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-machine-learning-public.git`
+- Ustvarimo virtualno okolje: `python -m venv .venv`
 - Aktiviramo virtualno okolje: `source .venv/bin/activate`
 - Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
 - Zagon Jupyter Notebooks: `jupyter notebook`
@@ -32,11 +32,11 @@
         - `c.NotebookApp.allow_origin = '*'`
         - `c.NotebookApp.ip = '0.0.0.0'`
 
-### Windows 10
+### Windows
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/download/win
     - https://www.python.org/downloads/windows/
-- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-2-public.git`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-machine-learning-public.git`
 - Ustvarimo virtualno okolje: `python -m venv .venv`
 - Aktiviramo virtualno okolje: `.venv\Scripts\activate`
 - Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
@@ -47,7 +47,7 @@
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/download/mac
     - https://www.python.org/downloads/macos/
-- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-2-public.git`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-machine-learning-public.git`
 - Ustvarimo virtualno okolje: `python3 -m venv .venv`
 - Aktiviramo virtualno okolje: `source .venv/bin/activate`
 - Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
