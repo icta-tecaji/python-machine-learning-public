@@ -1,7 +1,17 @@
 # Strojno učenje v Python-u
 
 ## Termini
-
+- 1. termin: 28.8.2023
+- 2. termin: 4.9.2023
+- 3. termin: 11.9.2023
+- 4. termin: 18.9.2023
+- 5. termin: 25.9.2023
+- 6. termin: 2.10.2023
+- 7. termin: 9.10.2023
+- 8. termin: 16.10.2023
+- 9. termin: 23.10.2023
+- 10. termin: 6.11.2023
+- 11. termin (po potrebi, izpit): po dogovoru
 
 ## Vsebina
 
