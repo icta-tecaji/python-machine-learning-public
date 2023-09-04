@@ -2,8 +2,6 @@ import numpy as np
 import pandas as pd
 import os
 from scipy import signal
-
-# from sklearn.datasets import load_boston
 from sklearn.preprocessing import MinMaxScaler, PolynomialFeatures
 from sklearn.datasets import make_blobs
 
@@ -23,7 +21,7 @@ def make_forge():
 def make_wave(n_samples=100):
     rnd = np.random.RandomState(42)
     x = rnd.uniform(-3, 3, size=n_samples)
-    y_no_noise = np.sin(4 * x) + x
+    y_no_noise = (np.sin(4 * x) + x)
     y = (y_no_noise + rnd.normal(size=len(x))) / 2
     return x.reshape(-1, 1), y
 
@@ -39,10 +37,18 @@ def load_extended_boston():
     return X, y
 
 
+def load_boston():
+    data_url = "http://lib.stat.cmu.edu/datasets/boston"
+    raw_df = pd.read_csv(data_url, sep="\s+", skiprows=22, header=None)
+    data = np.hstack([raw_df.values[::2, :], raw_df.values[1::2, :2]])
+    target = raw_df.values[1::2, 2]
+    return data, target
+
+
 def load_citibike():
     data_mine = pd.read_csv(os.path.join(DATA_PATH, "citibike.csv"))
-    data_mine["one"] = 1
-    data_mine["starttime"] = pd.to_datetime(data_mine.starttime)
+    data_mine['one'] = 1
+    data_mine['starttime'] = pd.to_datetime(data_mine.starttime)
     data_starttime = data_mine.set_index("starttime")
     data_resampled = data_starttime.resample("3h").sum().fillna(0)
     return data_resampled.one
