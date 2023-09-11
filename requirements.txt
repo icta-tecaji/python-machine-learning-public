@@ -11,3 +11,4 @@ hyperopt==0.2.7
 optuna==3.3.0
 plotly==5.16.1
 graphviz==0.20.1
+feature-engine==1.6.1
