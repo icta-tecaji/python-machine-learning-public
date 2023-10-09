@@ -15,4 +15,3 @@ feature-engine==1.6.1
 datasist==1.5.3
 imageio==2.31.4
 xgboost==2.0.0
-kneed==0.8.5
