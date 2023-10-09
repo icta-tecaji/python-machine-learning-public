@@ -112,3 +112,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+08_Recommender_systems/data/credits.csv
+08_Recommender_systems/data/ratings.csv
