@@ -6,17 +6,21 @@ Gregor Balkovec \<`gregor.balkovec@ltfe.org`\>
 Anže Glušič \<`anze.glusic@ltfe.org`\>
 
 ## Termini
-- 1. termin: 2.4.2024
-- 2. termin: 9.4.2024
-- 3. termin: 16.4.2024
-- 4. termin: 23.4.2024
-- 5. termin: 30.4.2024
-- 6. termin: 7.5.2024
-- 7. termin: 14.5.2024
-- 8. termin: 21.5.2024
-- 9. termin: 28.5.2024
-- 10. termin: 4.6.2024
-- 11. termin (po potrebi, izpit): po dogovoru
+
+| Zaporedje | Datum         | Dan   | Tip |
+| :---:     | :---:         | :---: | :---: |
+| 1.        | 2.4.2024     | Tor   | Predavanje 1 |
+| 2.        | 9.4.2024     | Tor   | Predavanje 2 | 
+| 3.        | 16.4.2024     | Tor   | Predavanje 3 |
+| 4.        | 23.4.2024     | Tor   | Predavanje 4 |
+| /         | ~~30.4.2024~~     | ~~Tor~~   | / |
+| 5.        | 7.5.2024      | Tor   | Predavanje 5 |
+| 6.        | 14.5.2024      | Tor   | Predavanje 6 |
+| 7.        | 21.5.2024      | Tor   | Predavanje 7 |
+| 8.        | 28.5.2024      | Tor   | Predavanje 8 |
+| 9.        | 4.6.2024      | Tor   | Predavanje 9 |
+| 10.       | 11.6.2024      | Tor   | Predavanje 10 |
+| 11.       | po dogovoru     | Tor   | Izpit |
 
 ## Vsebina
 
