@@ -1,5 +1,10 @@
 # Strojno učenje v Python-u
 
+# Predavatelji
+Gregor Balkovec \<`gregor.balkovec@ltfe.org`\>
+
+Anže Glušič \<`anze.glusic@ltfe.org`\>
+
 ## Termini
 - 1. termin: 2.4.2024
 - 2. termin: 9.4.2024
