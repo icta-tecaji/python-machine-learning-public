@@ -14,7 +14,8 @@ Anže Glušič \<`anze.glusic@ltfe.org`\>
 | 3.        | 16.4.2024     | Tor   | Predavanje 3 |
 | 4.        | 23.4.2024     | Tor   | Predavanje 4 |
 | /         | ~~30.4.2024~~     | ~~Tor~~   | / |
-| 5.        | 7.5.2024      | Tor   | Predavanje 5 |
+| 5.        | 6.5.2024, 16:30, ZOOM      | PON   | Predavanje 5 |
+| /.        | ~~7.5.2024~~      | ~~Tor~~   | / |
 | 6.        | 14.5.2024      | Tor   | Predavanje 6 |
 | 7.        | 21.5.2024      | Tor   | Predavanje 7 |
 | 8.        | 28.5.2024      | Tor   | Predavanje 8 |
